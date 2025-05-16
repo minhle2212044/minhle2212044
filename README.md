@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClearWind9u&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClearWind9u&layout=compact&theme=gruvbox" alt="Top Languages" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhle2212044&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle2212044&layout=compact&theme=gruvbox" alt="Top Languages" width="35%">
 </p>
 
 ---
