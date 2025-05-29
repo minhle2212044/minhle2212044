@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/congminh.le.988711" alt="Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a> 
-  <a href="mailto:lecongminh852004@gmail.com">
+  <a href="mailto:minh.le2212044@hcmut.edu.vn">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/minhle2212044">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Nest.js-000000?style=flat&logo=nest.js&logoColor=white" alt="Nest.js">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
@@ -48,8 +48,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Smart-Home](https://github.com/minhle2212044/smart-home)** | A mobile app for controlling smart home devices and monitoring real-time sensor | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
-| **[Recycle-App](https://github.com/minhle2212044/mobile-app)** | A mobile app that connects users with recycling collectors | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
-
+| **[Recycle-App](https://github.com/minhle2212044/mobile_app)** | A mobile app that connects users with recycling collectors | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
+| **[HCMUT Printing Service](https://github.com/thanhlee0107/SE-FRONTEND)** | A web app that designed to enhance the printing experience for students at HCMUT | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
 ---
 
 ### 📊 GitHub Insights
@@ -61,7 +61,7 @@
 ---
 
 ### 📬 Get in Touch
-- 📧 **Email**: [lecongminh852004@gmail.com](mailto:lecongminh852004@gmail.com)  
+- 📧 **Email**: [minh.le2212044@hcmut.edu.vn](mailto:minh.le2212044@hcmut.edu.vn)  
 ---
 
 <p align="center">
