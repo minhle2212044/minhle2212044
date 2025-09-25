@@ -20,7 +20,7 @@
 
 ### 👨‍🎓 About Me
 - 🎓 I'm a Computer Science student at Ho Chi Minh City University of Technology (HCMUT).
-- 💻 Passionate about backend development, artificial intelligence (AI), and Internet of Things (IoT) systems.
+- 💻 Passionate about backend development, artificial intelligence (AI).
 - 🌱 Continuously learning and exploring new technologies to improve my skills and contribute to impactful projects.
 - 🤝Eager to collaborate on real-world applications and open-source initiatives.
 - 🎯Striving to become a well-rounded developer capable of solving practical problems through smart and scalable solutions.
@@ -29,12 +29,10 @@
 
 ### 🛠️ Technical Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Nest.js-000000?style=flat&logo=nest.js&logoColor=white" alt="Nest.js">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
@@ -44,12 +42,21 @@
 
 ---
 
+#### 🤖 AI & Machine Learning
+- Machine Learning (Classification, Regression, Clustering)  
+- Natural Language Processing (NLP): Text classification, Spam detection, Next-word prediction  
+- Data Processing: Pandas, NumPy, Scikit-learn, NLTK  
+- Visualization: Matplotlib, Seaborn  
+
+---
+
 ### 🌟 Some Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Smart-Home](https://github.com/minhle2212044/smart-home)** | A mobile app for controlling smart home devices and monitoring real-time sensor | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
 | **[Recycle-App](https://github.com/minhle2212044/mobile_app)** | A mobile app that connects users with recycling collectors | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
 | **[HCMUT Printing Service](https://github.com/thanhlee0107/SE-FRONTEND)** | A web app that designed to enhance the printing experience for students at HCMUT | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
+| **[AI-Projects](https://github.com/minhle2212044/AI_Project)** | Các project nhỏ về AI và NLP (Spam email, Dự đoán từ, Dự đoán trầm cảm sinh viên) | ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) |
 ---
 
 ### 📊 GitHub Insights
@@ -65,5 +72,5 @@
 ---
 
 <p align="center">
-  <i>💡 "Simplicity is the soul of efficiency.."</i>
+  <i>💡 "Turning data into intelligence, and intelligence into impact."</i>
 </p>
