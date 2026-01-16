@@ -39,11 +39,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 
 ---
 
 #### 🤖 AI & Machine Learning
-- Machine Learning (Classification, Regression, Clustering)  
 - Natural Language Processing (NLP): Text classification, Spam detection, Next-word prediction  
 - Data Processing: Pandas, NumPy, Scikit-learn, NLTK  
 - Visualization: Matplotlib, Seaborn  
@@ -57,14 +58,6 @@
 | **[Recycle-App](https://github.com/minhle2212044/mobile_app)** | A mobile app that connects users with recycling collectors | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
 | **[HCMUT Printing Service](https://github.com/thanhlee0107/SE-FRONTEND)** | A web app that designed to enhance the printing experience for students at HCMUT | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) |
 | **[AI-Projects](https://github.com/minhle2212044/AI_Project)** | Các project nhỏ về AI và NLP (Spam email, Dự đoán từ, Dự đoán trầm cảm sinh viên) | ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) |
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhle2212044&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle2212044&layout=compact&theme=gruvbox" alt="Top Languages" width="35%">
-</p>
-
 ---
 
 ### 📬 Get in Touch
